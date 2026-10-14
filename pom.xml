@@ -118,6 +118,7 @@
                     <mutationThreshold>85</mutationThreshold>
                     <outputFormats>
                         <outputFormat>HTML</outputFormat>
+                        <outputFormat>XML</outputFormat>
                     </outputFormats>
                     <timestampedReports>false</timestampedReports>
                 </configuration>
